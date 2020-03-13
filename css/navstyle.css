@@ -1,0 +1,32 @@
+#nav{
+    height: 50px;
+    background-color: #6a6a00;
+    width: 100%;
+}
+
+#nav_ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+.nav_li_a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.nav_li_a:hover{
+    background-color: #111111;
+}
+
+.nav_li{
+    float: left;
+}
+
+h4{
+    color: darkblue;
+}
